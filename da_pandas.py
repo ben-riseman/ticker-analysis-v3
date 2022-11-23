@@ -117,7 +117,7 @@ def run():
 
     while True:
 
-        print("Disclosure Analysis by Benjamin Riseman for FinePrint Data, 2021")
+        print("Disclosure Analysis by Benjamin Riseman, 2021")
 
         fileLoc = input("Enter file location, 'h' for house, 's' for senate, or 'q' for quit: ")
 
