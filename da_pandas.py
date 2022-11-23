@@ -1,5 +1,5 @@
 """
-        Disclosure Analysis Python File by Benjamin Riseman for FinePrint Data, 2021
+        US Congress Financial Disclosure Analysis Python File by Benjamin Riseman, 2021
 
         As a few functions built around searching for tickers in excel documents provided
         by other algorithms of the database.
