@@ -1,5 +1,5 @@
 """
-        PTR Analysis Python File by Benjamin Riseman for FinePrint Data, 2021
+        US Congress Financial PTR Analysis Python File by Benjamin Riseman, 2021
 
         As a few functions built around searching for tickers in excel documents provided
         by other algorithms of the database.
@@ -80,7 +80,7 @@ def run():
 
     while True:
 
-        print("PTR Analysis by Benjamin Riseman for FinePrint Data, 2021")
+        print("PTR Analysis by Benjamin Riseman, 2021")
         
         fileLoc = input("Enter file location, 'h' for house, 's' for senate, or 'q' for quit: ")
 
