@@ -3,6 +3,7 @@
 ## Purpose
 
 ticker-analysis-v3 is built to parse and aid in the analysis of U.S. Politician's Financial Disclosures, which are publicly available here:
+	
 	Senate Financial Disclosures & PTRs (two files): https://efdsearch.senate.gov/search/home/
 	House Financial Discloures & PTRs (one file): https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure
 
